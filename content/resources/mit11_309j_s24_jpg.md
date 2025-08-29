@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/sensing-place-photography-as-inquiry/mit11_309j_s24.jpg
+file: /ol-ocw-studio-app/courses/11-309j-sensing-place-photography-as-inquiry-spring-2024/mit11_309j_s24.jpg
 file_size: 21913
 file_type: image/jpeg
 image_metadata:
